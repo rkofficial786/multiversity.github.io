@@ -327,7 +327,7 @@ background-color: transparent;}
     .cta{
         width: 80%;
         margin:100px auto ;
-        background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.6)) , url(/eduford_img/banner2.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.6)) , url(eduford_img/banner2.jpg);
         background-position: center;
         background-size: cover;
         padding: 100px 0;
