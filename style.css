@@ -558,7 +558,14 @@ color: white;
     margin-top: 30px;
     
 }
-        
+   
+@media(max-width:1420px)
+{
+    .comment-form button{
+        position: relative;
+        left: -15px;
+    }  
+}
        
         
     
